@@ -737,6 +737,7 @@
 0:1:38952805    kaNNniX|w!RDauCHNiX .de
 
 //Turkey .tr
+0:1:187581111   bluj .tr
 0:1:437563597   frod .tr
 0:1:422868758   frod .tr
 0:1:213354743   frod .tr
@@ -1014,6 +1015,7 @@
 0:1:6558529     d0zer .fi
 0:1:18281596    Blasdfa .fi
 0:1:7479730     Blasdfa .fi
+0:1:87725444    Blasdfa .fi
 0:1:5966196     oasiz .fi
 0:1:7219252     Elgu .fi
 0:1:10595528    zkitzor .fi
@@ -1024,6 +1026,7 @@
 0:1:3988685     Sathanas .fi
 0:0:103811      Spuug .fi
 0:0:31337671    sadf .fi
+0:0:48796829    Us3l3ss .fi
 
 //Bulgaria .bg
 0:0:86742       2pac .bg
@@ -2648,6 +2651,7 @@
 0:1:937422      Ducky .hu
 0:1:1117411     MagicMagyar .hu
 0:0:40807504    Traderain .hu
+0:0:49770374    Muty .hu
 
 //Italy .it
 0:1:26289733    OragoN .it

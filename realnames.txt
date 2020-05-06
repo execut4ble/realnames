@@ -1516,7 +1516,6 @@
 0:0:121702      Goose-on-the-loose .uk
 0:0:1433        Parasite .uk
 0:1:149600248   Arv .uk
-0:1:30002950    Ninya .uk
 0:1:9057439     terq .uk
 
 //Argentina .ar

@@ -223,6 +223,9 @@
 0:0:49394359    v0id .ru
 0:0:80509248    raintnt .ru
 0:0:70848222    shar .ru
+0:1:62149726    _Smiley .ru
+0:1:172041304   MalinovayaAgonia .ru
+0:0:73739339    bkmz .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
@@ -491,6 +494,7 @@
 0:1:4487041     Cel .fr
 0:0:30541 	Y@Bu .fr
 0:0:13519260    AmZi .fr
+0:0:98913307    mxpph .fr
 
 //Germany .de
 0:1:850495      DaRq .de
@@ -735,6 +739,7 @@
 0:0:102821      Lil Razor .de
 0:1:7270375     kaNNniX|w!RDauCHNiX .de
 0:1:38952805    kaNNniX|w!RDauCHNiX .de
+0:1:11512903    Kananga .de
 
 //Turkey .tr
 0:1:187581111   bluj .tr
@@ -965,6 +970,7 @@
 0:1:420925254   -AnnenWorkin- .tr
 0:1:420939219   -AnnenWorkin- .tr
 0:1:421003801   -AnnenWorkin- .tr
+0:1:431144830   ESKIYAAAAAA .tr
 
 
 //Finland .fi
@@ -1256,6 +1262,7 @@
 0:1:32494137    goose .se
 0:0:20198262    d0t .se
 0:1:77701122    stooh .se
+0:0:8726966     brainfluid .se
 
 //Norway .no
 0:1:2349815     Viking .no
@@ -2248,6 +2255,9 @@
 0:0:4427041     SPIXIA .us
 0:1:35965733    PieIsGood .us
 0:0:3200802     Link .us
+0:1:58686581    elsie .us
+0:1:129194183   numbers .us
+0:1:34907633    adamantite .us
 
 
 //Canada .ca
@@ -2582,6 +2592,7 @@
 0:1:1151506     Mynx .pt
 0:1:1490380     skulp .pt
 0:1:198127      Dy3 .pt
+0:0:227872864   GMan .pt
 
 //Poland .pl
 0:0:11593634    dvr .pl
@@ -2600,6 +2611,8 @@
 0:1:2929247     RAYos .pl
 0:0:3721739     The Generat .pl
 0:0:7959326     Lolqus .pl
+0:1:46705019    gatar .pl
+0:1:30002950    Ninya .pl
 
 //Romania .ro
 0:1:21138677    vOmi .ro
@@ -2636,6 +2649,7 @@
 0:1:70220804    Scroll .ro
 0:0:60422675    ProjectX .ro
 0:0:36684735    Turbo .ro
+0:1:74772708    EddWardG .ro
 
 //Hungary .hu
 0:1:12881171    mind1 .hu

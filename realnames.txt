@@ -232,6 +232,7 @@
 0:0:467804435   HeadCrab4ik .ru
 0:1:68349904    ProfessorShady .ru
 0:1:90691326    ItsNeverLight .ru
+0:0:178483875   vendami .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by

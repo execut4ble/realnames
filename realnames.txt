@@ -233,6 +233,8 @@
 0:1:68349904    ProfessorShady .ru
 0:1:90691326    ItsNeverLight .ru
 0:0:178483875   vendami .ru
+0:0:23034995    wartoshka .ru
+0:0:151169431   faxz .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by

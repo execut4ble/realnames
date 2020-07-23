@@ -346,6 +346,7 @@
 0:0:49089310    SeriousHeadhunter .ua
 0:1:489099161   Gr!eF .ua
 0:1:240570136   Anklava .ua
+0:1:121095663   vsemizdec .ua
 
 //Latvia .lv
 0:0:229254288   GauSS?? .lv

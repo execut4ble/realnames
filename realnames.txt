@@ -25,6 +25,7 @@
 0:1:21563188    Griff .ru
 0:0:16549349    T[@]HK .ru
 0:0:20735429    Vega .ru
+0:0:87865011    Daemon .ru
 0:1:14827286    Vain .ru
 0:0:20708158    kappa .ru
 0:1:37699221    vaxa .ru
@@ -210,11 +211,12 @@
 0:0:7450544     high .ru
 0:0:1137825     copaface .ru
 0:0:327695      Awake .ru
-0:0:14891251 	YaLTeR .ru
+0:0:14891251 	  YaLTeR .ru
 0:1:10028       DimmY .ru
-0:1:52411730 	royo .ru
-0:1:63118212  	I Lepsikkk I .ru
+0:1:52411730 	  royo .ru
+0:1:63118212  	 I Lepsikkk I .ru
 0:0:5154546     robo .ru
+0:1:110855244   TheRelaxingWin .ru
 0:0:65546441    DimaZombie .ru
 0:1:112212645   kulach0k .ru
 0:0:31767284    OP4 .ru
@@ -225,6 +227,7 @@
 0:1:62149726    _Smiley .ru
 0:1:172041304   MalinovayaAgonia .ru
 0:0:73739339    bkmz .ru
+0:0:464836690   Sobaka_Ruzhaya .ru
 0:1:84102866    oopskurt .ru
 0:0:1955915     down .ru
 0:0:19378405    viet/bern .ru
@@ -235,6 +238,7 @@
 0:1:90691326    ItsNeverLight .ru
 0:0:178483875   vendami .ru
 0:0:23034995    wartoshka .ru
+0:0:53077111    Logko .ru
 0:0:151169431   faxz .ru
 
 //Belarus .by
@@ -348,6 +352,7 @@
 0:1:489099161   Gr!eF .ua
 0:1:240570136   Anklava .ua
 0:1:121095663   vsemizdec .ua
+0:1:241853799   CyberCrab .ua
 
 //Latvia .lv
 0:0:229254288   GauSS?? .lv
@@ -2634,6 +2639,7 @@
 0:0:7959326     Lolqus .pl
 0:1:46705019    gatar .pl
 0:1:30002950    Ninya .pl
+0:0:19378405    czarson .pl
 
 //Romania .ro
 0:1:21138677    vOmi .ro
@@ -2736,8 +2742,10 @@
 0:0:23559209    Obama|SMD .lt
 0:1:28422378    execut4ble .lt
 0:1:38787082   	gAiDyS .lt
-0:1:53373762 	Scoutas .lt
+0:1:53373762 	  Scoutas .lt
 0:1:26728162    Pjuvis .lt
+0:1:437432354   polar .lt
+0:1:78208512    Zhuk0w .lv
 
 //Denmark .dk
 0:1:34726189    Spoinkinator .dk

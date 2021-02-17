@@ -991,7 +991,7 @@
 0:1:190059218   Gencay .tr
 0:0:489274015   BARI$ .tr
 0:1:443895565   lNase .tr
-0:1:589273387   ^eTRp^-Nash .tr
+0:1:589273387   Nash .tr
 0:1:197925945   Miralay .tr
 0:1:456349503   Hysteria .tr
 0:1:432492465   satanic .tr

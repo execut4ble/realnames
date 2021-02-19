@@ -240,6 +240,9 @@
 0:0:23034995    wartoshka .ru
 0:0:53077111    Logko .ru
 0:0:151169431   faxz .ru
+0:0:549721682   Zillion .ru
+0:1:173283927   5monde .ru
+0:1:535721718   popokocool .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
@@ -994,6 +997,11 @@
 0:0:431104452   cmkrtc .tr
 0:0:235825301   DesigneR .tr
 0:1:190059218   Gencay .tr
+0:0:459353955   Decarbon .tr
+0:1:237367417   nqaaN .tr
+0:1:571243053   rlx5lp .tr
+0:0:121310816   5dk .tr
+0:1:503763759   hsci .tr
 0:0:489274015   BARI$ .tr
 0:1:443895565   lNase .tr
 0:1:589273387   Nash .tr
@@ -2766,6 +2774,8 @@
 0:0:23174373    holy .kz
 0:0:54368438    D1R3cTx .kz
 0:0:462878645   Nurdik .kz
+0:1:507478562   KazBoy .kz
+0:0:207952719   ich .kz
 
 //Moldova .md
 0:1:25403545    Lia_033 .md
@@ -2853,7 +2863,8 @@
 0:1:1580131     ThOrN .au
 0:0:3775462     mindphix .au
 0:0:709925      seRj .au
-0:0:18531459 	Pineapple .au
+0:0:18531459 	  Pineapple .au
+0:0:52227637    Proto .au
 
 //Switzerland .ch
 0:0:222072      Golem .ch
@@ -2885,6 +2896,7 @@
 //Serbia
 0:1:437198      freak .rs
 0:0:17009501    hazard .rs
+0:1:190541319   StickmaN .rs
 
 //Slovenia .si
 0:1:1532424     aro .si

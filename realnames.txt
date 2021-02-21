@@ -243,6 +243,9 @@
 0:0:549721682   Zillion .ru
 0:1:173283927   5monde .ru
 0:1:535721718   popokocool .ru
+0:0:41434920    Be Happy .ru
+0:0:522886654   Vernis .ru
+0:0:85428728    Artem_Padya .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
@@ -993,6 +996,7 @@
 0:1:421003801   -AnnenWorkin- .tr
 0:1:431144830   ESKIYAAAAAA .tr
 0:1:243916175   H.B.O. .tr
+0:0:560168265   H.B.O .tr
 0:0:196136593   RASKOLNIKOV .tr
 0:0:431104452   cmkrtc .tr
 0:0:235825301   DesigneR .tr
@@ -1010,6 +1014,9 @@
 0:1:432492465   satanic .tr
 0:1:177159803   PAYNE .tr
 0:0:205768317   castor .tr
+0:1:507147868   Jnssry .tr
+0:1:509831959   SauRon .tr
+
 
 //Finland .fi
 0:0:7945437     Reaper .fi

@@ -1510,8 +1510,8 @@
 0:0:62425       pana .uk
 0:0:602029      Zaxxon .uk
 0:1:540567      Broadbandit .uk
-0:0:17586872 	NODZZ .uk
-0:0:23977944 	Tomsk45 .uk
+0:0:17586872 	  NODZZ .uk
+0:0:23977944 	  Tomsk45 .uk
 0:0:712127      Spirit .uk
 0:0:62786       PULP .uk
 0:0:6646719     copley .uk
@@ -1554,6 +1554,7 @@
 0:0:1433        Parasite .uk
 0:1:149600248   Arv .uk
 0:1:9057439     terq .uk
+0:1:30002950    Ninya .uk
 
 //Argentina .ar
 0:0:42341       Airm4x .ar
@@ -2646,8 +2647,6 @@
 0:0:3721739     The Generat .pl
 0:0:7959326     Lolqus .pl
 0:1:46705019    gatar .pl
-0:1:30002950    Ninya .pl
-0:0:19378405    czarson .pl
 
 //Romania .ro
 0:1:21138677    vOmi .ro

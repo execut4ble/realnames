@@ -2654,7 +2654,7 @@
 0:0:7959326     Lolqus .pl
 0:1:46705019    gatar .pl
 0:1:30002950    Ninya .pl
-0:0:19378405    czarson .pl
+0:1:172194628   czarson .pl
 
 //Romania .ro
 0:1:21138677    vOmi .ro

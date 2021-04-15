@@ -502,7 +502,7 @@
 0:0:776541      el-cobra .fr
 0:0:929140      Jules .fr
 0:0:725471      aklam .fr
- 0:1:1205174     D3m0n .fr
+0:1:1205174     D3m0n .fr
 0:1:117468      Didou .fr
 0:1:1179098     Blutch .fr
 0:1:1084739     glaswynn .fr
@@ -516,7 +516,7 @@
 0:1:3668550     Skeletor .fr
 0:1:4535352     Barton .fr
 0:1:4487041     Cel .fr
-0:0:30541 	Y@Bu .fr
+0:0:30541 	    Y@Bu .fr
 0:0:13519260    AmZi .fr
 0:0:98913307    mxpph .fr
 

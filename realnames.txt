@@ -1291,7 +1291,7 @@
 0:1:5508075     Deep .se
 0:0:689899      silver .se
 0:0:7976824 	coolkid .se
-0:0:727092 	CRASH FORT .se
+0:0:727092 	    CRASH FORT .se
 0:1:13712687 	treetoon .se
 0:1:6332008 	Zhouy .se
 0:1:1205678     Taraxacum officinale .se
@@ -1774,7 +1774,7 @@
 0:0:514946      Salen .br
 0:1:822025      Sh4m4n .br
 0:0:954639      Plumbum .br
-0:1370808       Pnkd .br
+0:0:1370808     Pnkd .br
 0:1:1698094     Parasite .br
 0:1:3658108     Faru .br
 0:1:3675287     PiruLA .br
@@ -2542,7 +2542,7 @@
 0:0:96712031    Beginner .be
 
 //Czech Republic .cz
-0:0:33202129    Chinese_soup .cz
+0:0:33202129    chinese_soup .cz
 0:1:295172      StealthY .cz
 0:0:11782860    Wajtas571 .cz
 0:1:12248494    Kobra .cz
@@ -2892,7 +2892,7 @@
 
 //Venezuela .ve
 0:0:12499557    Saint Soldier .ve
-0:0:58181672 Arianon .ve
+0:0:58181672    Arianon .ve
 
 //Singapore .sg
 0:1:39881016    sfiq12 .sg

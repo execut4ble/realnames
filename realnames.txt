@@ -230,7 +230,8 @@
 0:0:464836690   Sobaka_Ruzhaya .ru
 0:1:84102866    oopskurt .ru
 0:0:1955915     down .ru
-0:0:19378405    viet/bern .ru
+0:0:19378405    bern .ru
+0:1:1541131     bern .ru
 0:0:34071652    nyoRRkish .ru
 0:0:81193057    SibirskiyMedved .ru
 0:0:467804435   HeadCrab4ik .ru
@@ -349,6 +350,7 @@
 0:0:1953365     FRED .ua
 0:0:64610441    Raikiri .ua
 0:0:51444682    Liolik .ua
+0:1:17694923    Berzerker .ua
 0:1:61434370    olega7or .ua
 0:0:88696988    Grol .ua
 0:0:18109661    Rafs .ua

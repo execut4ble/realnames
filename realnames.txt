@@ -40,7 +40,7 @@
 0:1:33339362    H@nt3r .ru
 0:0:44965868    acid .ru
 0:1:33265248    umka .ru
-0:1:36242993    grach .ru
+0:1:36242993    kulach0k .ru
 0:1:40892292    Prov .ru
 0:1:15888396    L .ru
 0:1:5570072     ntls .ru
@@ -246,6 +246,36 @@
 0:0:41434920    Be Happy .ru
 0:0:522886654   Vernis .ru
 0:0:85428728    Artem_Padya .ru
+0:1:167351634   Mrkocmocc .ru
+0:1:93910488    qv2b .ru
+0:1:169656253   jorikgrozniy .ru
+0:0:153575957   grach .ru
+0:1:90273366    P4elkin .ru
+0:1:122829900   surfgamer .ru
+0:0:85854020    Freelancer .ru
+0:0:441582327   YouSon .ru
+0:1:37523633    JeaN .ru
+0:0:90266823    greatbeast666 .ru
+0:0:62678787    derf4 .ru
+0:0:506812425   Gorlix .ru
+0:0:245741470   HitHeiv .ru
+0:0:225219541   yandi505 .ru
+0:1:11151702    JAG .ru
+0:1:207403352   MrVilka15 .ru
+0:0:220206269   de_fer .ru
+0:0:22383509    Cavej .ru
+0:1:418655277   nexx .ru
+0:0:481150761   gamepad .ru
+0:1:10361831    Cache .ru
+0:1:452361416   inoshepotyanin228 .ru
+0:0:425766746   Di3aner .ru
+0:0:1007836     Drew .ru
+0:0:58918243    Krossis1337 .ru
+0:0:11129814    KenyII .ru
+0:1:52367504    Tecna .ru
+0:0:195720235   PegasDoggeAM .ru
+0:1:435791143   InfiniteC0re .ru
+0:1:44383156    Bloodvez .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by

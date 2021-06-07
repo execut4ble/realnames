@@ -40,7 +40,7 @@
 0:1:33339362    H@nt3r .ru
 0:0:44965868    acid .ru
 0:1:33265248    umka .ru
-0:1:36242993    grach .ru
+0:1:36242993    kulach0k .ru
 0:1:40892292    Prov .ru
 0:1:15888396    L .ru
 0:1:5570072     ntls .ru
@@ -246,6 +246,36 @@
 0:0:41434920    Be Happy .ru
 0:0:522886654   Vernis .ru
 0:0:85428728    Artem_Padya .ru
+0:1:167351634   Mrkocmocc .ru
+0:1:93910488    qv2b .ru
+0:1:169656253   jorikgrozniy .ru
+0:0:153575957   grach .ru
+0:1:90273366    P4elkin .ru
+0:1:122829900   surfgamer .ru
+0:0:85854020    Freelancer .ru
+0:0:441582327   YouSon .ru
+0:1:37523633    JeaN .ru
+0:0:90266823    greatbeast666 .ru
+0:0:62678787    derf4 .ru
+0:0:506812425   Gorlix .ru
+0:0:245741470   HitHeiv .ru
+0:0:225219541   yandi505 .ru
+0:1:11151702    JAG .ru
+0:1:207403352   MrVilka15 .ru
+0:0:220206269   de_fer .ru
+0:0:22383509    Cavej .ru
+0:1:418655277   nexx .ru
+0:0:481150761   gamepad .ru
+0:1:10361831    Cache .ru
+0:1:452361416   inoshepotyanin228 .ru
+0:0:425766746   Di3aner .ru
+0:0:1007836     Drew .ru
+0:0:58918243    Krossis1337 .ru
+0:0:11129814    KenyII .ru
+0:1:52367504    Tecna .ru
+0:0:195720235   PegasDoggeAM .ru
+0:1:435791143   InfiniteC0re .ru
+0:1:44383156    Bloodvez .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
@@ -290,6 +320,7 @@
 0:1:33622277    Mental .by
 0:0:3469990     Babeuwls .by
 0:1:123899331   RedLine .by
+0:0:49626019    DanieloZ .by
 
 //Ukraine .ua
 0:0:17775485    Mad3x .ua
@@ -359,6 +390,16 @@
 0:1:240570136   Anklava .ua
 0:1:121095663   vsemizdec .ua
 0:1:241853799   CyberCrab .ua
+0:0:91358898    keep0ut .ua
+0:0:158388978   Noghost .ua
+0:0:150524087   MichaelRom .ua
+0:1:491043341   Maksimka .ua
+0:1:102191      Gr!eF .ua
+0:1:189284513   ruenn .ua
+0:0:228130486   ya_ilya .ua
+0:0:210426992   Alw4n .ua
+0:1:17694923    Berzerker .ua
+0:0:456013637   Maksimka .ua
 
 //Latvia .lv
 0:0:229254288   GauSS?? .lv
@@ -382,6 +423,8 @@
 0:0:3418741     Bill Carson .lv
 0:1:3440718     Deploy .lv
 0:1:74873105    Vechs .lv
+0:1:78208512    Zhuk0w .lv
+0:1:44568643    ALLAN .lv
 
 //France .fr
 0:1:48272434    FeDoR .fr
@@ -519,6 +562,7 @@
 0:0:30541 	    Y@Bu .fr
 0:0:13519260    AmZi .fr
 0:0:98913307    mxpph .fr
+0:0:11385810    8ball .fr
 
 //Germany .de
 0:1:850495      DaRq .de
@@ -764,6 +808,12 @@
 0:1:7270375     kaNNniX|w!RDauCHNiX .de
 0:1:38952805    kaNNniX|w!RDauCHNiX .de
 0:1:11512903    Kananga .de
+0:1:21795425    Heros5k .de
+0:0:13193815    BigJk .de
+0:0:55350888    Gh0stQQ .de
+0:1:153689681   crowbar'mdl .de
+0:1:108568285   nin_talal .de
+0:0:425715442   Qiba .de
 
 //Turkey .tr
 0:1:187581111   bluj .tr
@@ -1016,7 +1066,11 @@
 0:0:205768317   castor .tr
 0:1:507147868   Jnssry .tr
 0:1:509831959   SauRon .tr
-
+0:0:47156282    tricky .tr
+0:0:88218406    ErenBilal .tr
+0:1:220204589   ates .tr
+0:0:176767667   fruich .tr
+0:1:53867264    wEgz55 .tr
 
 //Finland .fi
 0:0:7945437     Reaper .fi
@@ -1078,6 +1132,7 @@
 0:0:103811      Spuug .fi
 0:0:31337671    sadf .fi
 0:0:48796829    Us3l3ss .fi
+0:0:48651379    Lyren .fi
 
 //Bulgaria .bg
 0:0:86742       2pac .bg
@@ -1232,6 +1287,7 @@
 0:1:254932      Self .nl
 0:1:458522      TAO .nl
 0:1:26259751    HiipFire .nl
+0:1:41770765    Marckvdv .nl
 
 //Sweden .se
 0:1:22103689    Nax .se
@@ -1307,6 +1363,8 @@
 0:0:20198262    d0t .se
 0:1:77701122    stooh .se
 0:0:8726966     brainfluid .se
+0:1:28299457    nyddesson .se
+0:1:123683345   [TA]Ishmael .se
 
 //Norway .no
 0:1:2349815     Viking .no
@@ -1342,6 +1400,7 @@
 0:0:5828920     Vidocq .no
 0:1:313532      Spdz .no
 0:1:3672418     Brave .no
+0:1:50353275    Avbooo .no
 
 //United Kingdom .uk
 0:1:6030815     PJC .uk
@@ -1561,6 +1620,10 @@
 0:0:1433        Parasite .uk
 0:1:149600248   Arv .uk
 0:1:9057439     terq .uk
+0:1:4781019     Hyperborean .uk
+0:0:90071827    Chambers .uk
+0:1:17463414    Hexide .uk
+0:0:99333934    Wobfog .uk
 
 //Argentina .ar
 0:0:42341       Airm4x .ar
@@ -1722,6 +1785,7 @@
 0:1:47773690    RoBmAn .pe
 0:0:80942727    Jeffnero .pe
 0:1:74321843    oLie .pe
+0:0:61894434    Dcarlox .pe
 
 //Brazil .br
 0:0:80279612    ShooTCrazY .br
@@ -1778,6 +1842,8 @@
 0:1:1698094     Parasite .br
 0:1:3658108     Faru .br
 0:1:3675287     PiruLA .br
+0:1:34220528    parklez .br
+0:1:151057162   herly .br
 
 //United States (USA) .us
 0:0:41089503    Blaine_ .us
@@ -2300,7 +2366,14 @@
 0:1:129194183   numbers .us
 0:1:34907633    adamantite .us
 0:0:86484278    finianb1 .us
-
+0:0:48204549    chickenwangz .us
+0:1:53935050    novo .us
+0:0:42439188    waezone .us
+0:1:36307282    Signd0g .us
+0:1:207936009   Uakie .us
+0:1:73550755    marq .us
+0:0:61015970    lrf_series .us
+0:0:30154866    alexh0w .us
 
 //Canada .ca
 0:0:31801       Silv3r .ca
@@ -2395,6 +2468,9 @@
 0:1:477966      Disembowler .ca
 0:0:116476277   Griffin .ca
 0:1:5946194     KELLZ .ca
+0:0:40730663    AYB .ca
+0:0:54926825    LittleRunt .ca
+0:0:5807418     HSForya12 .ca
 
 //Mexico .mx
 0:0:41915077    Juck@` .mx
@@ -2576,6 +2652,7 @@
 0:1:500139      BlackMan .cz
 0:0:1023959     Virus_2003 .cz
 0:0:1023953     Virus_2003 .cz
+0:0:60468091    Burny .cz
 
 //Austria .at
 0:1:123408      scieN7isT .at
@@ -2633,7 +2710,7 @@
 0:1:1151506     Mynx .pt
 0:1:1490380     skulp .pt
 0:1:198127      Dy3 .pt
-0:0:227872864   GMan .pt
+0:1:437320602   GMan .pt
 
 //Poland .pl
 0:0:11593634    dvr .pl
@@ -2655,6 +2732,10 @@
 0:1:46705019    gatar .pl
 0:1:30002950    Ninya .pl
 0:1:172194628   czarson .pl
+0:0:71125161    JKRZ .pl
+0:1:108994433   dj_boshen .pl
+0:1:574499703   [ST]Dawid POLSKA .pl
+0:1:64540590    lucksasul .pl
 
 //Romania .ro
 0:1:21138677    vOmi .ro
@@ -2692,6 +2773,8 @@
 0:0:60422675    ProjectX .ro
 0:0:36684735    Turbo .ro
 0:1:74772708    EddWardG .ro
+0:1:157656927   Razvy .ro
+0:1:220794854   swoopae .ro
 
 //Hungary .hu
 0:1:12881171    mind1 .hu
@@ -2746,6 +2829,7 @@
 0:1:17784529    EL MEFRINI .dz
 0:1:86182930    algeria .dz
 0:1:55539925    AGantIVIrus .dz
+0:0:205656127   Kakarotossj .dz
 
 //Lithuania .lt
 0:1:18702116    fkk .lt
@@ -2760,7 +2844,8 @@
 0:1:53373762 	  Scoutas .lt
 0:1:26728162    Pjuvis .lt
 0:1:437432354   polar .lt
-0:1:78208512    Zhuk0w .lv
+0:0:38790502    niobis .lt
+0:1:107027695   WhyWhy43 .lt
 
 //Denmark .dk
 0:1:34726189    Spoinkinator .dk
@@ -2783,6 +2868,7 @@
 0:0:462878645   Nurdik .kz
 0:1:507478562   KazBoy .kz
 0:0:207952719   ich .kz
+0:0:488253810   ScriptedSnark .kz
 
 //Moldova .md
 0:1:25403545    Lia_033 .md
@@ -2793,6 +2879,7 @@
 //Macedonia .mk
 0:0:64442191    Capablanca .mk
 0:0:3188242     psihopat .mk
+0:1:169975596   chuckskull .mk
 
 //Slovakia .sk
 0:1:13021582    I)ARTHI)ETH .sk
@@ -2808,6 +2895,7 @@
 0:1:1694142     kaa .sk
 0:1:3172950     Miuko .sk
 0:1:225396394   Xirus .sk
+0:1:15313922    WilliamTheSloth .sk
 
 //Chile .cl
 0:0:35172962    waali .cl
@@ -2833,6 +2921,7 @@
 0:1:3651388     J.Rooney .ie
 0:1:568460      ULSTER .ie
 0:1:2944559     J.Rooney .ie
+0:1:191416347   Haiku .ie
 
 //Montenegro .me
 0:1:15093866    Mhono .me
@@ -2859,6 +2948,8 @@
 //Estonia .ee
 0:0:314062      Nau .ee
 0:1:3435343     bldsuu .ee
+0:1:188034347   BotSkipper .ee
+0:0:67995478    bldsuu .ee
 
 //Australia .au
 0:0:8034771     mindphix .au
@@ -2872,6 +2963,9 @@
 0:0:709925      seRj .au
 0:0:18531459 	  Pineapple .au
 0:0:52227637    Proto .au
+0:1:64532746    spikehunter .au
+0:0:121190996   InputEvelution .au
+0:0:75156971    Munted .au
 
 //Switzerland .ch
 0:0:222072      Golem .ch
@@ -2893,6 +2987,7 @@
 //Venezuela .ve
 0:0:12499557    Saint Soldier .ve
 0:0:58181672    Arianon .ve
+0:1:56402448    Sky .ve
 
 //Singapore .sg
 0:1:39881016    sfiq12 .sg
@@ -2904,10 +2999,13 @@
 0:1:437198      freak .rs
 0:0:17009501    hazard .rs
 0:1:190541319   StickmaN .rs
+0:1:52921606    DeXTeR .rs
 
 //Slovenia .si
 0:1:1532424     aro .si
 0:1:54103       Krawca .si
+0:1:67794326    Filip_shukky .si
+0:1:57173393    Son1x .si
 
 //Japan .jp
 0:0:4500727     bAd .jp
@@ -2931,6 +3029,7 @@
 0:1:1719629     Bio .is
 0:1:205999      t0x .is
 0:0:7251425     Lesterre .is
+0:1:406510      MrBadger .is
 
 
 //Botswana .bw

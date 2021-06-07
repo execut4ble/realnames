@@ -423,6 +423,8 @@
 0:0:3418741     Bill Carson .lv
 0:1:3440718     Deploy .lv
 0:1:74873105    Vechs .lv
+0:1:78208512    Zhuk0w .lv
+0:1:44568643    ALLAN .lv
 
 //France .fr
 0:1:48272434    FeDoR .fr
@@ -1359,6 +1361,8 @@
 0:0:20198262    d0t .se
 0:1:77701122    stooh .se
 0:0:8726966     brainfluid .se
+0:1:28299457    nyddesson .se
+0:1:123683345   [TA]Ishmael .se
 
 //Norway .no
 0:1:2349815     Viking .no
@@ -1779,6 +1783,7 @@
 0:1:47773690    RoBmAn .pe
 0:0:80942727    Jeffnero .pe
 0:1:74321843    oLie .pe
+0:0:61894434    Dcarlox .pe
 
 //Brazil .br
 0:0:80279612    ShooTCrazY .br
@@ -1835,6 +1840,8 @@
 0:1:1698094     Parasite .br
 0:1:3658108     Faru .br
 0:1:3675287     PiruLA .br
+0:1:34220528    parklez .br
+0:1:151057162   herly .br
 
 //United States (USA) .us
 0:0:41089503    Blaine_ .us
@@ -2835,7 +2842,8 @@
 0:1:53373762 	  Scoutas .lt
 0:1:26728162    Pjuvis .lt
 0:1:437432354   polar .lt
-0:1:78208512    Zhuk0w .lv
+0:0:38790502    niobis .lt
+0:1:107027695   WhyWhy43 .lt
 
 //Denmark .dk
 0:1:34726189    Spoinkinator .dk
@@ -2910,6 +2918,7 @@
 0:1:3651388     J.Rooney .ie
 0:1:568460      ULSTER .ie
 0:1:2944559     J.Rooney .ie
+0:1:191416347   Haiku .ie
 
 //Montenegro .me
 0:1:15093866    Mhono .me
@@ -2936,6 +2945,8 @@
 //Estonia .ee
 0:0:314062      Nau .ee
 0:1:3435343     bldsuu .ee
+0:1:188034347   BotSkipper .ee
+0:0:67995478    bldsuu .ee
 
 //Australia .au
 0:0:8034771     mindphix .au
@@ -2949,6 +2960,9 @@
 0:0:709925      seRj .au
 0:0:18531459 	  Pineapple .au
 0:0:52227637    Proto .au
+0:1:64532746    spikehunter .au
+0:0:121190996   InputEvelution .au
+0:0:75156971    Munted .au
 
 //Switzerland .ch
 0:0:222072      Golem .ch

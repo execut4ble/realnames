@@ -320,6 +320,7 @@
 0:1:33622277    Mental .by
 0:0:3469990     Babeuwls .by
 0:1:123899331   RedLine .by
+0:0:49626019    DanieloZ .by
 
 //Ukraine .ua
 0:0:17775485    Mad3x .ua
@@ -804,6 +805,12 @@
 0:1:7270375     kaNNniX|w!RDauCHNiX .de
 0:1:38952805    kaNNniX|w!RDauCHNiX .de
 0:1:11512903    Kananga .de
+0:1:21795425    Heros5k .de
+0:0:13193815    BigJk .de
+0:0:55350888    Gh0stQQ .de
+0:1:153689681   crowbar'mdl .de
+0:1:108568285   nin_talal .de
+0:0:425715442   Qiba .de
 
 //Turkey .tr
 0:1:187581111   bluj .tr
@@ -2732,6 +2739,8 @@
 0:0:60422675    ProjectX .ro
 0:0:36684735    Turbo .ro
 0:1:74772708    EddWardG .ro
+0:1:157656927   Razvy .ro
+0:1:220794854   swoopae .ro
 
 //Hungary .hu
 0:1:12881171    mind1 .hu
@@ -2823,6 +2832,7 @@
 0:0:462878645   Nurdik .kz
 0:1:507478562   KazBoy .kz
 0:0:207952719   ich .kz
+0:0:488253810   ScriptedSnark .kz
 
 //Moldova .md
 0:1:25403545    Lia_033 .md

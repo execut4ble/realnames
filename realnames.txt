@@ -562,6 +562,7 @@
 0:0:30541 	    Y@Bu .fr
 0:0:13519260    AmZi .fr
 0:0:98913307    mxpph .fr
+0:0:11385810    8ball .fr
 
 //Germany .de
 0:1:850495      DaRq .de
@@ -1131,6 +1132,7 @@
 0:0:103811      Spuug .fi
 0:0:31337671    sadf .fi
 0:0:48796829    Us3l3ss .fi
+0:0:48651379    Lyren .fi
 
 //Bulgaria .bg
 0:0:86742       2pac .bg
@@ -2877,6 +2879,7 @@
 //Macedonia .mk
 0:0:64442191    Capablanca .mk
 0:0:3188242     psihopat .mk
+0:1:169975596   chuckskull .mk
 
 //Slovakia .sk
 0:1:13021582    I)ARTHI)ETH .sk
@@ -3026,6 +3029,7 @@
 0:1:1719629     Bio .is
 0:1:205999      t0x .is
 0:0:7251425     Lesterre .is
+0:1:406510      MrBadger .is
 
 
 //Botswana .bw

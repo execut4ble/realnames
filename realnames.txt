@@ -389,6 +389,16 @@
 0:1:240570136   Anklava .ua
 0:1:121095663   vsemizdec .ua
 0:1:241853799   CyberCrab .ua
+0:0:91358898    keep0ut .ua
+0:0:158388978   Noghost .ua
+0:0:150524087   MichaelRom .ua
+0:1:491043341   Maksimka .ua
+0:1:102191      Gr!eF .ua
+0:1:189284513   ruenn .ua
+0:0:228130486   ya_ilya .ua
+0:0:210426992   Alw4n .ua
+0:1:17694923    Berzerker .ua
+0:0:456013637   Maksimka .ua
 
 //Latvia .lv
 0:0:229254288   GauSS?? .lv

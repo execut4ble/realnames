@@ -1283,6 +1283,7 @@
 0:1:254932      Self .nl
 0:1:458522      TAO .nl
 0:1:26259751    HiipFire .nl
+0:1:41770765    Marckvdv .nl
 
 //Sweden .se
 0:1:22103689    Nax .se
@@ -1393,6 +1394,7 @@
 0:0:5828920     Vidocq .no
 0:1:313532      Spdz .no
 0:1:3672418     Brave .no
+0:1:50353275    Avbooo .no
 
 //United Kingdom .uk
 0:1:6030815     PJC .uk
@@ -2355,7 +2357,14 @@
 0:1:129194183   numbers .us
 0:1:34907633    adamantite .us
 0:0:86484278    finianb1 .us
-
+0:0:48204549    chickenwangz .us
+0:1:53935050    novo .us
+0:0:42439188    waezone .us
+0:1:36307282    Signd0g .us
+0:1:207936009   Uakie .us
+0:1:73550755    marq .us
+0:0:61015970    lrf_series .us
+0:0:30154866    alexh0w .us
 
 //Canada .ca
 0:0:31801       Silv3r .ca
@@ -2450,6 +2459,9 @@
 0:1:477966      Disembowler .ca
 0:0:116476277   Griffin .ca
 0:1:5946194     KELLZ .ca
+0:0:40730663    AYB .ca
+0:0:54926825    LittleRunt .ca
+0:0:5807418     HSForya12 .ca
 
 //Mexico .mx
 0:0:41915077    Juck@` .mx
@@ -2689,7 +2701,7 @@
 0:1:1151506     Mynx .pt
 0:1:1490380     skulp .pt
 0:1:198127      Dy3 .pt
-0:0:227872864   GMan .pt
+0:1:437320602   GMan .pt
 
 //Poland .pl
 0:0:11593634    dvr .pl
@@ -2711,6 +2723,10 @@
 0:1:46705019    gatar .pl
 0:1:30002950    Ninya .pl
 0:1:172194628   czarson .pl
+0:0:71125161    JKRZ .pl
+0:1:108994433   dj_boshen .pl
+0:1:574499703   [ST]Dawid POLSKA .pl
+0:1:64540590    lucksasul .pl
 
 //Romania .ro
 0:1:21138677    vOmi .ro
@@ -2804,6 +2820,7 @@
 0:1:17784529    EL MEFRINI .dz
 0:1:86182930    algeria .dz
 0:1:55539925    AGantIVIrus .dz
+0:0:205656127   Kakarotossj .dz
 
 //Lithuania .lt
 0:1:18702116    fkk .lt
@@ -2965,6 +2982,7 @@
 0:1:437198      freak .rs
 0:0:17009501    hazard .rs
 0:1:190541319   StickmaN .rs
+0:1:52921606    DeXTeR .rs
 
 //Slovenia .si
 0:1:1532424     aro .si

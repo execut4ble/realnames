@@ -1063,7 +1063,11 @@
 0:0:205768317   castor .tr
 0:1:507147868   Jnssry .tr
 0:1:509831959   SauRon .tr
-
+0:0:47156282    tricky .tr
+0:0:88218406    ErenBilal .tr
+0:1:220204589   ates .tr
+0:0:176767667   fruich .tr
+0:1:53867264    wEgz55 .tr
 
 //Finland .fi
 0:0:7945437     Reaper .fi
@@ -1608,6 +1612,10 @@
 0:0:1433        Parasite .uk
 0:1:149600248   Arv .uk
 0:1:9057439     terq .uk
+0:1:4781019     Hyperborean .uk
+0:0:90071827    Chambers .uk
+0:1:17463414    Hexide .uk
+0:0:99333934    Wobfog .uk
 
 //Argentina .ar
 0:0:42341       Airm4x .ar
@@ -2623,6 +2631,7 @@
 0:1:500139      BlackMan .cz
 0:0:1023959     Virus_2003 .cz
 0:0:1023953     Virus_2003 .cz
+0:0:60468091    Burny .cz
 
 //Austria .at
 0:1:123408      scieN7isT .at
@@ -2858,6 +2867,7 @@
 0:1:1694142     kaa .sk
 0:1:3172950     Miuko .sk
 0:1:225396394   Xirus .sk
+0:1:15313922    WilliamTheSloth .sk
 
 //Chile .cl
 0:0:35172962    waali .cl
@@ -2943,6 +2953,7 @@
 //Venezuela .ve
 0:0:12499557    Saint Soldier .ve
 0:0:58181672    Arianon .ve
+0:1:56402448    Sky .ve
 
 //Singapore .sg
 0:1:39881016    sfiq12 .sg
@@ -2958,6 +2969,8 @@
 //Slovenia .si
 0:1:1532424     aro .si
 0:1:54103       Krawca .si
+0:1:67794326    Filip_shukky .si
+0:1:57173393    Son1x .si
 
 //Japan .jp
 0:0:4500727     bAd .jp

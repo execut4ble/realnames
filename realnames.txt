@@ -276,6 +276,8 @@
 0:0:195720235   PegasDoggeAM .ru
 0:1:435791143   InfiniteC0re .ru
 0:1:44383156    Bloodvez .ru
+0:1:26097265    topoviygus .ru
+0:0:110083      juice .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
@@ -814,6 +816,7 @@
 0:1:153689681   crowbar'mdl .de
 0:1:108568285   nin_talal .de
 0:0:425715442   Qiba .de
+0:0:69589       dEMolite .de
 
 //Turkey .tr
 0:1:187581111   bluj .tr
@@ -1626,6 +1629,7 @@
 0:0:99333934    Wobfog .uk
 0:1:420777771   sabian .uk
 0:1:109694876   sabian .uk
+0:0:17835546    mystic .uk
 
 //Argentina .ar
 0:0:42341       Airm4x .ar
@@ -2376,6 +2380,7 @@
 0:1:73550755    marq .us
 0:0:61015970    lrf_series .us
 0:0:30154866    alexh0w .us
+0:1:13205133    night .us
 
 //Canada .ca
 0:0:31801       Silv3r .ca
@@ -2655,6 +2660,8 @@
 0:0:1023959     Virus_2003 .cz
 0:0:1023953     Virus_2003 .cz
 0:0:60468091    Burny .cz
+0:1:26912185    fykseN .cz
+0:1:15644863    ChiChiN .cz
 
 //Austria .at
 0:1:123408      scieN7isT .at

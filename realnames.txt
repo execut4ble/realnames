@@ -2966,7 +2966,7 @@
 0:0:3037893     Crafty .au
 0:0:3434959     mindphix .au
 0:0:5683245     Jackel .au
-0:0:825953      Browny  .au
+0:0:825953      Browny .au
 0:1:1580131     ThOrN .au
 0:0:3775462     mindphix .au
 0:0:709925      seRj .au
@@ -3066,7 +3066,7 @@
 0:1:186237054   NicolaSs .gt
 
 // Palestine .ps
-0:0:6789757 R@$heed990 .ps
+0:0:6789757     R@$heed990 .ps
 
 //Unknown-Seen in S'lag
 0:0:1235898     |||Sk4||| .??

@@ -1753,6 +1753,7 @@
 0:0:90932380    AgustiiN. .ar
 0:0:177070649   Travuca .ar
 0:0:66388916    Travuca .ar
+0:1:15552958    rtxa .ar
 
 //Peru .pe
 0:1:80126850    ~oAs!s .pe

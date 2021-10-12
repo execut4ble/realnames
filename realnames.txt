@@ -265,7 +265,7 @@
 0:0:220206269   de_fer .ru
 0:0:22383509    Cavej .ru
 0:1:418655277   nexx .ru
-0:0:481150761   gamepad .ru
+0:0:481150761   GamePad .ru
 0:1:10361831    Cache .ru
 0:1:452361416   inoshepotyanin228 .ru
 0:0:425766746   Di3aner .ru
@@ -278,6 +278,7 @@
 0:1:44383156    Bloodvez .ru
 0:1:26097265    topoviygus .ru
 0:0:110083      juice .ru
+0:1:49849329    tmp64 .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
@@ -1074,6 +1075,7 @@
 0:1:220204589   ates .tr
 0:0:176767667   fruich .tr
 0:1:53867264    wEgz55 .tr
+0:1:596410633   Mehmet .tr
 
 //Finland .fi
 0:0:7945437     Reaper .fi
@@ -2915,6 +2917,7 @@
 0:1:16725885    Dax .cn
 0:0:32497982    KuoMInTang .cn
 0:0:436033674   RRTS Chun .cn
+0:0:116268391   MXYLR .cn
 
 //Jordan .jo
 0:0:25774349    $h@N4K .jo

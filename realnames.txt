@@ -265,7 +265,7 @@
 0:0:220206269   de_fer .ru
 0:0:22383509    Cavej .ru
 0:1:418655277   nexx .ru
-0:0:481150761   gamepad .ru
+0:0:481150761   GamePad .ru
 0:1:10361831    Cache .ru
 0:1:452361416   inoshepotyanin228 .ru
 0:0:425766746   Di3aner .ru
@@ -278,6 +278,8 @@
 0:1:44383156    Bloodvez .ru
 0:1:26097265    topoviygus .ru
 0:0:110083      juice .ru
+0:1:49849329    tmp64 .ru
+0:0:8134880     hoboken .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
@@ -1074,6 +1076,8 @@
 0:1:220204589   ates .tr
 0:0:176767667   fruich .tr
 0:1:53867264    wEgz55 .tr
+0:1:596410633   Mehmet .tr
+0:1:85682130    BiSaXa .tr
 
 //Finland .fi
 0:0:7945437     Reaper .fi
@@ -1749,6 +1753,7 @@
 0:0:90932380    AgustiiN. .ar
 0:0:177070649   Travuca .ar
 0:0:66388916    Travuca .ar
+0:1:15552958    rtxa .ar
 
 //Peru .pe
 0:1:80126850    ~oAs!s .pe
@@ -2381,6 +2386,7 @@
 0:0:61015970    lrf_series .us
 0:0:30154866    alexh0w .us
 0:1:13205133    night .us
+0:1:419469501   tmob .us
 
 //Canada .ca
 0:0:31801       Silv3r .ca
@@ -2478,6 +2484,7 @@
 0:0:40730663    AYB .ca
 0:0:54926825    LittleRunt .ca
 0:0:5807418     HSForya12 .ca
+0:0:84455187    KeaganExtremeGaming .ca
 
 //Mexico .mx
 0:0:41915077    Juck@` .mx
@@ -2565,6 +2572,7 @@
 0:1:8842539    	Cientifiko_L0k0 .es
 0:1:3332684     Ev1L.Rap7oR .es
 0:1:228566      AlGuNo .es
+0:1:109794290   IkerPineapple .es
 
 //Belgium .be
 0:0:36705       prydZ .be
@@ -2662,6 +2670,7 @@
 0:0:60468091    Burny .cz
 0:1:26912185    fykseN .cz
 0:1:15644863    ChiChiN .cz
+0:0:41898560    the_kovic .cz
 
 //Austria .at
 0:1:123408      scieN7isT .at
@@ -2915,6 +2924,7 @@
 0:1:16725885    Dax .cn
 0:0:32497982    KuoMInTang .cn
 0:0:436033674   RRTS Chun .cn
+0:0:116268391   MXYLR .cn
 
 //Jordan .jo
 0:0:25774349    $h@N4K .jo
@@ -3067,6 +3077,9 @@
 
 // Palestine .ps
 0:0:6789757     R@$heed990 .ps
+
+// Vietnam .vn
+0:1:112775402   2838 .vn
 
 //Unknown-Seen in S'lag
 0:0:1235898     |||Sk4||| .??

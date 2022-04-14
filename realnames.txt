@@ -404,6 +404,7 @@
 0:0:210426992   Alw4n .ua
 0:1:17694923    Berzerker .ua
 0:0:456013637   Maksimka .ua
+0:0:597818474   pr0lert .ua
 
 //Latvia .lv
 0:0:229254288   GauSS?? .lv

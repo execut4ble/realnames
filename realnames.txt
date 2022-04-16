@@ -404,6 +404,7 @@
 0:0:210426992   Alw4n .ua
 0:1:17694923    Berzerker .ua
 0:0:456013637   Maksimka .ua
+0:0:597818474   pr0lert .ua
 
 //Latvia .lv
 0:0:229254288   GauSS?? .lv
@@ -1210,6 +1211,7 @@
 0:0:91397728    Inmate .bg
 0:0:10184695    luvstruck .bg
 0:1:149856878   LanbeR .bg
+0:1:184038160   Kisimov .bg
 
 //Netherlands .nl
 0:1:48870741    XiSz .nl

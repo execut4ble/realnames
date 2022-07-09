@@ -2920,7 +2920,10 @@
 //Chile .cl
 0:0:35172962    waali .cl
 0:0:32332472    MarK(mK) .cl
-0:0:42434320    Carlitos .cl
+
+
+//Paraguay
+0:0:42434320    Carlitos .py
 
 //China .cn
 0:1:16725885    Dax .cn

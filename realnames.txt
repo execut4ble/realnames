@@ -2921,7 +2921,7 @@
 0:0:35172962    waali .cl
 0:0:32332472    MarK(mK) .cl
 
-//Paraguay
+//Paraguay .py
 0:0:42434320    Carlitos .py
 
 //China .cn

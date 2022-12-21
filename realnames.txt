@@ -281,6 +281,7 @@
 0:1:49849329    tmp64 .ru
 0:0:8134880     hoboken .ru
 0:0:148463886   Joker .ru
+0:1:14398709    five5laps .ru
 
 //Belarus .by
 0:0:18416505    Unisol .by
@@ -406,6 +407,7 @@
 0:1:17694923    Berzerker .ua
 0:0:456013637   Maksimka .ua
 0:0:597818474   pr0lert .ua
+0:0:32750496    L0ok_At_Me .ua
 
 //Latvia .lv
 0:0:229254288   GauSS?? .lv
@@ -813,7 +815,7 @@
 0:0:102821      Lil Razor .de
 0:1:7270375     kaNNniX|w!RDauCHNiX .de
 0:1:38952805    kaNNniX|w!RDauCHNiX .de
-0:1:11512903    Kananga .de
+0:1:11512903    KaNanga .de
 0:1:21795425    Heros5k .de
 0:0:13193815    BigJk .de
 0:0:55350888    Gh0stQQ .de
@@ -821,6 +823,8 @@
 0:1:108568285   nin_talal .de
 0:0:425715442   Qiba .de
 0:0:69589       dEMolite .de
+0:0:55350888    Gh0stQQ .de
+0:0:11706392    pacMan .de
 
 //Turkey .tr
 0:1:187581111   bluj .tr
@@ -1127,9 +1131,9 @@
 0:1:663957      Alosha .fi
 0:1:8013        pain4me .fi
 0:1:6558529     d0zer .fi
-0:1:18281596    Blasdfa .fi
-0:1:7479730     Blasdfa .fi
-0:1:87725444    Blasdfa .fi
+0:1:18281596    blasdfa .fi
+0:1:7479730     blasdfa .fi
+0:1:87725444    blasdfa .fi
 0:1:5966196     oasiz .fi
 0:1:7219252     Elgu .fi
 0:1:10595528    zkitzor .fi
@@ -1374,7 +1378,7 @@
 0:1:77701122    stooh .se
 0:0:8726966     brainfluid .se
 0:1:28299457    nyddesson .se
-0:1:123683345   [TA]Ishmael .se
+0:1:123683345   Ishmael .se
 
 //Norway .no
 0:1:2349815     Viking .no
@@ -1757,6 +1761,11 @@
 0:0:177070649   Travuca .ar
 0:0:66388916    Travuca .ar
 0:1:15552958    rtxa .ar
+0:0:33227984    Asel_ga .ar
+0:1:151147200   Flashback .ar
+0:0:72183061    enri .ar
+0:0:4250        kendo .ar
+0:1:46574739    marc0z] .ar
 
 //Peru .pe
 0:1:80126850    ~oAs!s .pe
@@ -1800,6 +1809,7 @@
 0:0:80942727    Jeffnero .pe
 0:1:74321843    oLie .pe
 0:0:61894434    Dcarlox .pe
+0:1:175050505   glines .pe
 
 //Brazil .br
 0:0:80279612    ShooTCrazY .br
@@ -1858,6 +1868,7 @@
 0:1:3675287     PiruLA .br
 0:1:34220528    parklez .br
 0:1:151057162   herly .br
+0:1:196168117 	opXamas .br
 
 //United States (USA) .us
 0:0:41089503    Blaine_ .us
@@ -2390,6 +2401,7 @@
 0:0:30154866    alexh0w .us
 0:1:13205133    night .us
 0:1:419469501   tmob .us
+0:0:87738353    FpsGerald .us
 
 //Canada .ca
 0:0:31801       Silv3r .ca
@@ -2576,6 +2588,7 @@
 0:1:3332684     Ev1L.Rap7oR .es
 0:1:228566      AlGuNo .es
 0:1:109794290   IkerPineapple .es
+0:1:45444593    Geldegor .es
 
 //Belgium .be
 0:0:36705       prydZ .be

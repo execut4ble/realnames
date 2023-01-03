@@ -2402,6 +2402,7 @@
 0:1:13205133    night .us
 0:1:419469501   tmob .us
 0:0:87738353    FpsGerald .us
+0:0:229768883   wozniak .us
 
 //Canada .ca
 0:0:31801       Silv3r .ca
@@ -2500,6 +2501,7 @@
 0:0:54926825    LittleRunt .ca
 0:0:5807418     HSForya12 .ca
 0:0:84455187    KeaganExtremeGaming .ca
+0:1:32911461    nick .ca
 
 //Mexico .mx
 0:0:41915077    Juck@` .mx

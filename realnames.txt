@@ -2402,7 +2402,7 @@
 0:1:13205133    night .us
 0:1:419469501   tmob .us
 0:0:87738353    FpsGerald .us
-0:0:229768883   woz .us
+0:0:229768883   wozniak .us
 
 //Canada .ca
 0:0:31801       Silv3r .ca

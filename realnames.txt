@@ -235,7 +235,8 @@
 0:0:81193057    SibirskiyMedved .ru
 0:0:467804435   HeadCrab4ik .ru
 0:1:68349904    ProfessorShady .ru
-0:1:90691326    ItsNeverLight .ru
+0:1:90691326    NeverLight .ru
+0:1:129235892   SoMuch .ru
 0:0:178483875   vendami .ru
 0:0:23034995    wartoshka .ru
 0:0:53077111    Logko .ru
